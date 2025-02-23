@@ -9,4 +9,5 @@ int main(){
     (x > c) ? (printf("%d is the second largest number",c)) : (printf("%d is the second largest number",x));
 
      return 0;
+     
 }
